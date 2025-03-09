@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **postgreSQL, Typescript**
 
-- 💬 Ask me about **HTML, CSS, Js, EJS, React, Redux,Bootstap , TailwindCss, NextJs, SQL**
+- 💬 Ask me about **HTML, CSS, Js, EJS, React, Redux ,Bootstap , TailwindCss, NextJs, SQL**
 
 - 📫 How to reach me **anshikatomar757@gmail.com**
 
