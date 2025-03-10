@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshi089" alt="anshi089" /></a> </p>
 
-- 🌱 I’m currently learning **postgreSQL, Typescript**
+- 🌱 I’m currently learning **postgreSQL, Typescript.**
 
-- 💬 Ask me about **HTML, CSS, Js, EJS, React, Redux ,Bootstrap , TailwindCss, NextJs, SQL**
+- 💬 Ask me about **HTML, CSS, Js, EJS, React, Redux ,Bootstrap , TailwindCss, NextJs, SQL.**
 
 - 📫 How to reach me **anshikatomar757@gmail.com**
 
