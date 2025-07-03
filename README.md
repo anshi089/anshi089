@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Langchain**
 
-- 💬 Ask me about **HTML, CSS, Js, EJS, ReactJs, Redux ,Bootstrap , TailwindCss , NextJs , Typescript, SQL.**
+- 💬 Ask me about **HTML, CSS, Js, EJS, ReactJs, Redux ,Bootstrap , TailwindCss , NextJs , Typescript, SQL,PostgresSQL.**
 
 - 📫 How to reach me **anshikatomar757@gmail.com**
 
