@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **HTML, CSS, Js, EJS, ReactJs, Redux ,Bootstrap , TailwindCss , NextJs , Typescript, SQL,PostgresSQL.**
 
-- 📫 How to reach me **anshikatomar757@gmail.com**
-
 - ⚡ Fun fact **I am funny 😊.**
 
 <h3 align="left">Connect with me:</h3>
