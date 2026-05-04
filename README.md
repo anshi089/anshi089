@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshi089" alt="anshi089" /></a> </p>
 
-- 🌱 I’m currently learning **Langchain,Langraph....**
+- 🌱 I’m currently learning **Langchain,Langraph...**
 
 - 💬 Ask me about **HTML, CSS, Js, EJS, ReactJs, Redux ,Bootstrap , TailwindCss , NextJs , Typescript, SQL ,PostgresSQL.**
 
